@@ -69,6 +69,19 @@ Quality Control Automation | Abril 2023 - December 2023
 
 Software Testing Technician | Abril 2023 - Currently
 
+### **Skills**
 
-
+<hr>
+<p>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+ <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715" alt="github" width="30" height="30"/>
+ <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="jUnit" width="30" height="30"/>
+ <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/>
+ <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/>
+ <img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-512x506-3kksf9dh.png" alt="intellij" width="30" height="30"/>
+</p>
+</hr>
 
