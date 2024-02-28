@@ -55,17 +55,20 @@ OCH Book Keeping & BPO S.A | February 2019 - December 2022
 + Proficient in Microsoft Excel, Office, SAP
 + Familiarity with Government Web Platforms
 
-<!--
-**Molina1913/Molina1913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Education**
 
-Here are some ideas to get you started:
+**Universidad de Medellín**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Public accountant| February 2014 - October 2018
+
+**Egg Cooperation | Globant University**
+
+Quality Control Automation | Abril 2023 - December 2023
+
+**Servicio Nacional de Aprendizaje (SENA)**
+
+Software Testing Technician | Abril 2023 - Currently
+
+
+
+
