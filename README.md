@@ -1,4 +1,25 @@
-### Hi there 👋
+# Hi there 👋, I am Luis Molina.
+
+### QA Automation.
+
+<a href="https://www.linkedin.com/in/luis-eduardo-molina-paniagua/">
+    <img align="center" alt="LinkedIn Luis Molina" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+ <a href = "mailto: lemolina27@hotmail.com">
+    <img align="center" src="https://simpleicons.org/icons/gmail.svg"  width="22" />
+</a>
+<a href="https://www.instagram.com/le.molina27/">
+  <img align="center" alt="Luis Molina Ig" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+### Professional Profile
+
+Highly motivated software development apprentice passionate about
+self-directed knowledge acquisition. Practical experience in
+programming, application development, and software testing for learning
+purposes. Energetic, collaborative, and dedicated to continuous
+improvement. Capable of working in teams to solve complex problems
+and deliver innovative solutions.
 
 <!--
 **Molina1913/Molina1913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
